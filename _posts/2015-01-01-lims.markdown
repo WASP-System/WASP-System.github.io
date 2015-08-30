@@ -1,0 +1,15 @@
+---
+title: LIMS 
+subtitle: Lab Management
+layout: default
+modal-id: 1 
+date: 2015-01-01
+img: lims_600.jpeg 
+thumbnail: lims_400.jpg
+alt: image-alt
+#project-date: April 2014
+#client: Start Bootstrap
+#category: Web Development
+description: The Wasp System integrates a Laboratory Information Management System through all phases of the sequencing facility's workflow. Samples are entered by customers, recieved by the facility, and metadata is captured through all phases of library preparation and sequencing. 
+
+---

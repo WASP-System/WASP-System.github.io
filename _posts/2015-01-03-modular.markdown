@@ -1,0 +1,15 @@
+---
+title: Modular 
+subtitle: Architecture 
+layout: default
+modal-id: 3 
+date: 2015-01-03
+img: modular_600.png
+thumbnail: modular_400.png
+#alt: image-alt
+#project-date: April 2014
+#client: Start Bootstrap
+#category: Web Development
+description: The Wasp System is developed around a modular framework, where individual components for job submission, software and workflows are reusable.
+
+---
